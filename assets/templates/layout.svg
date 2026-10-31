@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>投影配置助手｜固定圖面 PP-1.0</title>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 10 0 L 0 5 L 10 10 z" fill="#42657d"/></marker>
+<clipPath id="header-clip"><rect x="40" y="20" width="1040" height="100"/></clipPath>
+<clipPath id="meta-clip"><rect x="1120" y="20" width="440" height="100"/></clipPath>
+<clipPath id="top-clip"><rect x="60" y="190" width="880" height="595"/></clipPath>
+<clipPath id="front-clip"><rect x="1000" y="175" width="540" height="265"/></clipPath>
+<clipPath id="spec-clip"><rect x="1000" y="475" width="540" height="310"/></clipPath>
+<clipPath id="foot-clip"><rect x="60" y="835" width="1480" height="140"/></clipPath>
+</defs>
+<g font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei',sans-serif" fill="#243444">
+<rect width="1600" height="1000" fill="#f5f7fa"/>
+<path d="M40 125 H1560" stroke="#236b8e" stroke-width="3"/>
+<g id="header" clip-path="url(#header-clip)">$title</g><g clip-path="url(#meta-clip)">$meta</g>
+<rect id="top-panel" x="40" y="145" width="920" height="655" rx="8" fill="white" stroke="#c3d1dc"/>
+<rect id="front-panel" x="980" y="145" width="580" height="305" rx="8" fill="white" stroke="#c3d1dc"/>
+<rect id="spec-panel" x="980" y="465" width="580" height="335" rx="8" fill="white" stroke="#c3d1dc"/>
+<rect id="footer-panel" x="40" y="820" width="1520" height="160" rx="8" fill="white" stroke="#c3d1dc"/>
+<g font-size="20" font-weight="bold"><text x="65" y="179">01｜俯視配置</text><text x="1005" y="174">02｜幕面正視</text><text x="1005" y="490">03｜規格摘要</text><text x="65" y="844">04｜假設、警告與限制</text></g>
+<g clip-path="url(#top-clip)">$top</g><g clip-path="url(#front-clip)">$front</g><g clip-path="url(#spec-clip)">$table</g><g clip-path="url(#foot-clip)">$footer</g>
+<text x="1540" y="995" text-anchor="end" font-size="11">PP-1.0 · 概念配置 · 非施工圖</text>
+</g></svg>
