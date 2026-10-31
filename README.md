@@ -32,11 +32,11 @@ mkdir -p ~/.agents/skills
 cp -R /path/to/projection-planner ~/.agents/skills/
 ```
 
-Windows 可用檔案管理員複製到個人目錄下 `.agents/skills/projection-planner`。官方也支援 `$skill-installer` 從其他倉庫下載；本專案網址：https://github.com/januart1st0101/projection-planner。
+Windows 可用檔案管理員複製到個人目錄下 `.agents/skills/projection-planner`。官方也支援 `$skill-installer` 從其他倉庫下載；本專案網址：[projection-planner](https://github.com/januart1st0101/projection-planner)。
 
 確認：Codex 技能選單可找到「投影配置助手」，在對話輸入 `$projection-planner` 並提供下列範例。Codex 通常自動偵測新增技能；未出現時重新啟動。確認它實際執行 scripts/planner.py 並產生三種輸出，不只回答口算結果。未安裝也可請 Codex 直接讀本機此資料夾的 SKILL.md 測試。
 
-倉庫網址：https://github.com/januart1st0101/projection-planner。
+倉庫網址：[projection-planner](https://github.com/januart1st0101/projection-planner)。
 
 官方建議可重複分發的技能後續包成 plugin；本版先保留獨立資料夾。此專案提供獨立 Skill，未建立 plugin 或 MCP。
 
