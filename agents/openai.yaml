@@ -1,0 +1,6 @@
+interface:
+  display_name: "投影配置助手"
+  short_description: "計算單機投影距離與畫面尺寸，輸出固定版型 SVG 配置圖與摘要"
+  default_prompt: "使用 $projection-planner 計算投影距離、檢查鏡頭範圍並產生固定配置圖。"
+policy:
+  allow_implicit_invocation: true
