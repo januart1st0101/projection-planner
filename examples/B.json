@@ -1,0 +1,42 @@
+{
+  "project": "範例 B｜五公尺距離・WUXGA",
+  "version": "v1",
+  "date": "2026-11-01",
+  "width": 4.0,
+  "height": 2.5,
+  "diagonal_m": 4.716990566028302,
+  "diagonal_in": 185.70829000111425,
+  "distance": 5.0,
+  "throw_ratio": 1.25,
+  "lens": null,
+  "interval": null,
+  "position": 5.0,
+  "position_valid": null,
+  "resolution": [
+    1920,
+    1200
+  ],
+  "aspect": 1.6,
+  "aspect_label": "16:10",
+  "pitch_mm": 2.0833333333333335,
+  "fit": "contain",
+  "content_width": 4.0,
+  "content_height": 2.25,
+  "bars_each_m": [
+    0.0,
+    0.125
+  ],
+  "crop_each_m": [
+    0,
+    0
+  ],
+  "warnings": [],
+  "assumptions": [
+    "單台一般正投，平面幕面且鏡頭正對中心；不含鏡頭位移。",
+    "距離由原廠定義的鏡頭參考點量至幕面，不是機身外殼或吊架。",
+    "須核對原廠投射距離定義、鏡頭限制與安裝公差；不捏造機種規格。",
+    "不涵蓋超短焦、反射式光路、傾斜／曲面、多機融合及實機控制。",
+    "不計亮度、對焦景深、梯形校正或寫實渲染；本圖僅概念配置。"
+  ],
+  "notes": []
+}

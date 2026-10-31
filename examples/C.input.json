@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "date": "2026-11-01",
+  "project": "範例 C｜變焦鏡頭・位置不通過",
+  "width": "6m",
+  "lens": [
+    1.2,
+    1.8
+  ],
+  "position": "6m",
+  "aspect": "16:9",
+  "resolution": "4K UHD"
+}

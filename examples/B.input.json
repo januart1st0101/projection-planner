@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "date": "2026-11-01",
+  "project": "範例 B｜五公尺距離・WUXGA",
+  "distance": "5m",
+  "throw_ratio": 1.25,
+  "aspect": "16:10",
+  "resolution": "WUXGA",
+  "content_aspect": "16:9"
+}

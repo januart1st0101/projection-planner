@@ -1,0 +1,42 @@
+{
+  "project": "範例 A｜六公尺寬・Full HD",
+  "version": "v1",
+  "date": "2026-11-01",
+  "width": 6.0,
+  "height": 3.375,
+  "diagonal_m": 6.884084906507182,
+  "diagonal_in": 271.0269648231174,
+  "distance": 7.199999999999999,
+  "throw_ratio": 1.2,
+  "lens": null,
+  "interval": null,
+  "position": 7.199999999999999,
+  "position_valid": null,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "aspect": 1.7777777777777777,
+  "aspect_label": "16:9",
+  "pitch_mm": 3.125,
+  "fit": "contain",
+  "content_width": 6.0,
+  "content_height": 3.375,
+  "bars_each_m": [
+    0.0,
+    0.0
+  ],
+  "crop_each_m": [
+    0,
+    0
+  ],
+  "warnings": [],
+  "assumptions": [
+    "單台一般正投，平面幕面且鏡頭正對中心；不含鏡頭位移。",
+    "距離由原廠定義的鏡頭參考點量至幕面，不是機身外殼或吊架。",
+    "須核對原廠投射距離定義、鏡頭限制與安裝公差；不捏造機種規格。",
+    "不涵蓋超短焦、反射式光路、傾斜／曲面、多機融合及實機控制。",
+    "不計亮度、對焦景深、梯形校正或寫實渲染；本圖僅概念配置。"
+  ],
+  "notes": []
+}
